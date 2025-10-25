@@ -13,6 +13,7 @@
 💼 I’m a passionate **Digital Marketer** on a mission to become a **Full-Stack Developer** in the coming years.  
 🔥 Recently shifted from **perfectionism** to **action**, and it's been the best decision for growth.  
 🧠 I’m a lifelong learner — always curious, always improving.  
+⚡ I’m **multi-tasking** and thrive when juggling multiple projects at once.  
 🌍 Currently exploring advanced web technologies and modern UI/UX trends.  
 
 ---
